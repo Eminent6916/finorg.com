@@ -28,4 +28,4 @@ Users can input their income sources, and the app calculates their total income,
 ## The Team:
 * Hounliho Jaurex Samson (https://github.com/rexatrom)
 * Elisha Eminent (https://github.com/Eminent6916)
-* Olatunbosun Oluwatosin (https://github.com/adeneye09)
+* Olatunbosun Oluwatosin (https://github.com/adeneye02)
