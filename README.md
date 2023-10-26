@@ -25,15 +25,25 @@ FinOrg reminds users of upcoming bills and allows them to schedule automatic pay
 ## Income Tracking: 
 Users can input their income sources, and the app calculates their total income, making it easier to understand their financial inflow.
 
+
+## The Screenshots:
+### The Dashboard
+![Dashboard](screenshots/Dash.JPG)
+
+### Income Tracking Section
+![Income_Tracking](screenshots/Income.JPG)
+
+### Bill Management Section
+![Bill_Management](screenshots/Bill.JPG)
+
+### Expence Tracking Section
+![Expence_Tracking](screenshots/Expence.JPG)
+
+### Target Saving Section
+![Target_Saving](screenshots/Target.JPG)
+
+
 ## The Team:
 * Hounliho Jaurex Samson (https://github.com/rexatrom)
 * Elisha Eminent (https://github.com/Eminent6916)
 * Olatunbosun Oluwatosin (https://github.com/adeneye02)
-
-
-## The Screenshots:
-![Dashboard](screenshots/Dash.JPG)
-![Income_Tracking](screenshots/Income.JPG)
-![Bill_Management](screenshots/Bill.JPG)
-![Expence_Tracking](screenshots/Expence.JPG)
-![Target_Saving](screenshots/Target.JPG)
