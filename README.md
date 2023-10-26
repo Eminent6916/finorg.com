@@ -29,3 +29,11 @@ Users can input their income sources, and the app calculates their total income,
 * Hounliho Jaurex Samson (https://github.com/rexatrom)
 * Elisha Eminent (https://github.com/Eminent6916)
 * Olatunbosun Oluwatosin (https://github.com/adeneye02)
+
+
+## The Screenshots:
+![Dashboard](screenshots/Dash.JPG)
+![Income_Tracking](screenshots/Income.JPG)
+![Bill_Management](screenshots/Bill.JPG)
+![Expence_Tracking](screenshots/Expence.JPG)
+![Target_Saving](screenshots/Target.JPG)
